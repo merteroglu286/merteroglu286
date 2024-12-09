@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Otovınn**
 
-- 📫 How to reach me **mert_1999.286@hotmail.com**
+- 📫 How to reach me **merteroglu893@gmail.com**
 
 <p align="left">
 </p>
