@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Otovınn**
 
-- 📫 How to reach me **merteroglu893@gmail.com**
+- 📫 How to reach me **mert_1999.286@hotmail.com**
 
 <p align="left">
 </p>
@@ -39,9 +39,6 @@
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
 </p>
 
